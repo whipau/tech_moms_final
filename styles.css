@@ -1,0 +1,14 @@
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+.banner{
+    background-repeat: repeat-x;
+    margin: auto;
+}
+body {
+    background-image: url("Images/il_794xN.3637469398_ggbr.jpg");
+    background-repeat: repeat-x;
+  }
